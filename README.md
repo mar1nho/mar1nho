@@ -1,7 +1,8 @@
 
 
 ## ☢️ Olá, meu nome é Gustavo e estou iniciando no curso Ciências da Computação. 
-### Estou aprendendo a deselvolver websites utilizando HTML, CSS e JavaScript, e implementando com estudos de Node.js e MongoDB para complementar minhas competências. Sou uma pessoa proativa e apaixonada por tecnologia, sempre buscando me atualizar e aprender mais. Acredito que posso trazer muito valor para a empresa em que trabalho atualmente, mas também estou aberto a novas oportunidades e desafios. 
+### Estou aprendendo a deselvolver websites utilizando HTML, CSS e JavaScript, e implementando com estudos de Node.js e MongoDB para complementar minhas competências. Sou uma pessoa proativa e apaixonada por tecnologia, sempre buscando me atualizar e aprender mais. 
+Busco cada dia aprender e evoluir mais, e algum dia ser uma adição super positiva para alguma companhia.
 <br/>
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-marinho-435526157/)
