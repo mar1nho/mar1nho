@@ -6,7 +6,7 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-marinho-435526157/)
 <br/>
-## Tecnologias que uso no dia a dia
+## Tecnologias que estudo no dia a dia
 
 
 <br/>
