@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ I'm a brazilian student of Computer Science, learning how to code.
 
-### ‼️ This is my experimental repository, I'm gonna put some stuff to practice. Later there'll be a Hosted Website with all my Porjects. All projects included here on GitHub will pass through serious modifications, because everyday I learn something new, and gonna implement on current projects.
+### ‼️ This is my experimental repository, I'm gonna put some stuff to practice. Later there'll be a Hosted Website with all my Projects. All projects included here on GitHub will pass through serious modifications, because everyday I learn something new, and gonna implement on current projects.
 
 <br/>
 
