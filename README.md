@@ -25,12 +25,6 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4rinho&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Marinho](https://img.shields.io/badge/-m4rinhodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m4rinhodev/)](https://www.linkedin.com/in/m4rinhodev/)
