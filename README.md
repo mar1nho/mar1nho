@@ -25,7 +25,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where you can find me: </h3> 
 
 [![Linkedin: Marinho](https://img.shields.io/badge/-m4rinhodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m4rinhodev/)](https://www.linkedin.com/in/m4rinhodev/)
 [![GitHub Marinho]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/mar1nho)
