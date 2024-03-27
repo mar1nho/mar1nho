@@ -2,11 +2,6 @@
   <img src="marinho.gif">
 </div>
 
-<div align="center">
-  
-### ABOUT ME
-
-</div>
 
 <div align="center">
   
