@@ -35,7 +35,7 @@ I'm 24 years old and living in Brazil. <br>
 
 
 
-<a href="https://github.com/mar1nho/jmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=jmail&title_color=F2F2F2&text_color=F2F2F2&bg_color=a40c06&border_color=F2F2F2&icon_color=F2F2F2&border_radius=20" height="100"/></a> <a href="https://github.com/mar1nho/jdbc_java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=jdbc_java&title_color=F2F2F2&text_color=F2F2F2&bg_color=a40c06&border_color=F2F2F2&icon_color=F2F2F2&border_radius=20" height="100"/></a><a href="https://github.com/mar1nho/keylogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=keylogger&title_color=F2F2F2&text_color=F2F2F2&bg_color=a40c06&border_color=F2F2F2&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/mar1nho/jmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=jmail&title_color=F2F2F2&text_color=F2F2F2&bg_color=0d1117&border_color=c60000&icon_color=F2F2F2&border_radius=20" height="100"/></a> <a href="https://github.com/mar1nho/jdbc_java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=jdbc_java&title_color=F2F2F2&text_color=F2F2F2&bg_color=0d1117&border_color=c60000&icon_color=F2F2F2&border_radius=20" height="100"/></a><a href="https://github.com/mar1nho/keylogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=keylogger&title_color=F2F2F2&text_color=F2F2F2&bg_color=0d1117&border_color=c60000&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 
 
 ##
