@@ -4,21 +4,51 @@
   
 </div>
 
-<div align="center>
 
-```java
+<div align="center">
 
-public class Marinho {
- String name = "Gustavo Marinho"
- String[] skills = { "Java","PostgreSQL","Spring","Bootstrap","Python" }
- 
- val primarySkillset = "SKILLS"
- val languages = listOf("Node", "MongoDB", "Lua", "C++", "Typescript", "HTML", "JavaScript", "CSS", "React", "Ruby") 
-}
+### 👨‍💻 About me
 
-```
-  
+My name is <b>Gustavo Marinho</b>, I'm student of <b>System Analysis and Development</b> at UNINOVE. <br>
+I love <b>Java</b> and play games. <br>
+I'm 24 years old and living in Brazil. <br>
+<b>-> I'm searching for my first oportunity in Tech Area <-</b> <br>
+
+
+
+
+##
+
+### ⚒ Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,bootstrap,js,obsidian,postgres,postman,py,spring,selenium"/>
+  </a>
+</p>
+
+
+
+##
+
+### 🎨 Recent Projects
+
+
+
+<a href="https://github.com/mar1nho/jmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=jmail&title_color=F2F2F2&text_color=F2F2F2&bg_color=a40c06&border_color=F2F2F2&icon_color=F2F2F2&border_radius=20" height="100"/></a> <a href="https://github.com/mar1nho/jdbc_java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=jdbc_java&title_color=F2F2F2&text_color=F2F2F2&bg_color=a40c06&border_color=F2F2F2&icon_color=F2F2F2&border_radius=20" height="100"/></a><a href="https://github.com/mar1nho/keylogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=keylogger&title_color=F2F2F2&text_color=F2F2F2&bg_color=a40c06&border_color=F2F2F2&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+
+
+##
+
+### 📲 Contact me
+
+
+##
+
 </div>
+
+
+
 
 <div align="center">
   
