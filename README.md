@@ -4,11 +4,25 @@
   
 </div>
 
+<div align="center>
+
+```java
+
+public class Marinho {
+ String name = "Gustavo Marinho"
+ String[] skills = { "Java","PostgreSQL","Spring","Bootstrap","Python" }
+ 
+ val primarySkillset = "SKILLS"
+ val languages = listOf("Node", "MongoDB", "Lua", "C++", "Typescript", "HTML", "JavaScript", "CSS", "React", "Ruby") 
+}
+
+```
+  
+</div>
 
 <div align="center">
   
-  ![mar1nho Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar1nho&layout=compact&style=for-the-badge&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&border_color=c60000&show_icons=true&icon_color=F2F2F2&rank_icon=github)
-
+![mar1nho Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar1nho&layout=compact&style=for-the-badge&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&border_color=c60000&show_icons=true&icon_color=F2F2F2&rank_icon=github)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mar1nho&bg_color=0d1117&color=a40c06&line=a40c06&point=be170b&area=true&hide_border=true)
 
