@@ -15,7 +15,7 @@ I'm 24 years old and living in Brazil. <br>
 <b>-> I'm searching for my first oportunity in Tech Area <-</b> <br>
 
 
-
+### [Currículo](Currículo.pdf) | [Resume](Resume.pdf)
 
 ##
 
