@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About me
 
-My name is <b>Gustavo Marinho</b>, I'm student of <b>System Analysis and Development</b> at UNINOVE. <br>
-I love <b>Java</b> and play games. <br>
-I'm 24 years old and living in Brazil. <br>
-<b>-> I'm searching for my first oportunity in Tech Area <-</b> <br>
+My name is <b>Gustavo Marinho</b>, and I am a student of <b>System Analysis and Development</b> at UNINOVE. <br>
+I have a passion for <b>Java</b> and enjoy playing games. <br>
+I am 24 years old and currently residing in Brazil. <br>
+<b>-> Actively seeking my first opportunity in the Tech Industry <-</b> <br>
 
 
 ### [Currículo](Currículo.pdf) | [Resume](Resume.pdf)
