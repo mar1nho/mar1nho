@@ -1,29 +1,28 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&weight=600&size=45&pause=1000&color=DC0000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello%2C+you+can+call+me+Marinho+(%E2%97%8F'%E2%97%A1'%E2%97%8F))](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&color=9109F7&center=true&vCenter=true&width=435&lines=Marinho+%3DD)](https://git.io/typing-svg)
 </div>
 
 
-<div align="center">
+
 
 ### 👨‍💻 About me
 
-My name is <b>Gustavo Marinho</b>, and I am a student of <b>System Analysis and Development</b> at UNINOVE. <br>
-I have a passion for <b>Java</b> and enjoy playing games. <br>
-I am 24 years old and currently residing in Brazil. <br>
-<b>-> Actively seeking my first opportunity in the Tech Industry <-</b> <br>
+🎓 Computer Science student at **São Judas Tadeu**.  
+💻 Passionate about **Java** and technology, with a strong interest in software development.  
+🎮 Gamer in my free time and always looking for new challenges.  
+📊 Currently working in the **administrative sector**, but eager to transition into the **tech industry**.  
+🔍 Looking to apply my **5 years of administrative experience** and **advanced English skills** in the technology field.  
+📍 25 years old, currently residing in Brazil.  
 
-
-### [Currículo](Currículo.pdf) | [Resume](Resume.pdf)
-
+🚀 **Actively seeking my first opportunity in the Tech Industry!**  
 ##
 
 ### ⚒ Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,bootstrap,js,obsidian,postgres,postman,py,spring,selenium"/>
+    <img src="https://skillicons.dev/icons?i=linux,java,git,tailwindcss,js,notion,postgres,postman,py,spring,cs,docker,mysql"/>
   </a>
 </p>
 
@@ -43,9 +42,7 @@ I am 24 years old and currently residing in Brazil. <br>
 ### 📲 Contact me
 
 
-##
 
-</div>
 
 
 
