@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About me
 
-🎓 Computer Science student at **São Judas Tadeu**.  
-💻 Passionate about **Java** and technology, with a strong interest in software development.  
+🎓 Computer Science student at **São Judas Tadeu** 1/8.  
+💻 Passionate about **Java**, **Python** and technology, with a strong interest in software development and data science.  
 🎮 Gamer in my free time and always looking for new challenges.  
 📊 Currently working in the **administrative sector**, but eager to transition into the **tech industry**.  
 🔍 Looking to apply my **5 years of administrative experience** and **advanced English skills** in the technology field.  
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,java,git,tailwindcss,js,notion,postgres,postman,py,spring,cs,docker,mysql"/>
+    <img src="https://skillicons.dev/icons?i=linux,java,git,js,notion,postgres,postman,py,spring,mysql"/>
   </a>
 </p>
 
