@@ -33,8 +33,7 @@
 ### 🎨 Recent Projects
 
 
-
-<a href="https://github.com/mar1nho/jmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=jmail&title_color=F2F2F2&text_color=F2F2F2&bg_color=0d1117&border_color=c60000&icon_color=F2F2F2&border_radius=20" height="100"/></a> <a href="https://github.com/mar1nho/jdbc_java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=jdbc_java&title_color=F2F2F2&text_color=F2F2F2&bg_color=0d1117&border_color=c60000&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/mar1nho/jmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=jmail&title_color=F2F2F2&text_color=F2F2F2&bg_color=0d1117&border_color=c60000&icon_color=F2F2F2&border_radius=20" height="100"/></a> <a href="https://github.com/mar1nho/SysView"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=SysView&title_color=F2F2F2&text_color=F2F2F2&bg_color=0d1117&border_color=c60000&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 
 <a href="https://github.com/mar1nho/google-scrapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=google-scrapper&title_color=F2F2F2&text_color=F2F2F2&bg_color=0d1117&border_color=c60000&icon_color=F2F2F2&border_radius=20" height="100"/></a><a href="https://github.com/mar1nho/instagram-scrapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mar1nho&repo=instagram-scrapper&title_color=F2F2F2&text_color=F2F2F2&bg_color=0d1117&border_color=c60000&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 
