@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About me
 
-🎓 Computer Science student at **Universidade São Judas Tadeu** 1/8.  
+🎓 Computer Science student at **Universidade São Judas Tadeu** 2/8.  
 💻 Passionate about **Java**, **Python** and technology, with a strong interest in software development and data science.  
 🎮 Gamer in my free time and always looking for new challenges.  
 📊 Currently working in the **administrative sector**, but eager to transition into the **tech industry**.  
