@@ -11,11 +11,10 @@
 🎓 Computer Science student at **Universidade São Judas Tadeu** 2/8.  
 💻 Passionate about **Java**, **Python** and technology, with a strong interest in software development and data science.  
 🎮 Gamer in my free time and always looking for new challenges.  
-📊 Currently working in the **administrative sector**, but eager to transition into the **tech industry**.  
-🔍 Looking to apply my **5 years of administrative experience** and **advanced English skills** in the technology field.  
-📍 25 years old, currently residing in Brazil.  
+📊 Currently working in the **financial billing and data sector**.  
+🔍 Looking to apply my **6 years of administrative billing experience** and **advanced English skills** in the technology field.  
+📍 25 years old, currently residing in BraSil.  
 
-🚀 **Actively seeking my first opportunity in the Tech Industry!**  
 ##
 
 ### ⚒ Skills
