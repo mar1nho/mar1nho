@@ -11,7 +11,7 @@
 🎓 Computer Science student at **Universidade São Judas Tadeu** 2/8.  
 💻 Passionate about **Java**, **Python** and technology, with a strong interest in software development and data science.  
 🎮 Gamer in my free time and always looking for new challenges.  
-📊 Currently working in the **financial billing and data sector**.  
+📊 Currently working in the **financial billing and data department**, working everyday with PowerBI, Excel, Python and Data Analysis.  
 🔍 Looking to apply my **6 years of administrative billing experience** and **advanced English skills** in the technology field.  
 📍 25 years old, currently residing in BraSil.  
 
