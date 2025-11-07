@@ -19,13 +19,6 @@ With 6 years of experience in administrative/financial processes (billing), I br
 Interests: Data Science, Backend Development, Software Development.
 ##
 
-### ⚒ Skills
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,java,git,notion,py,spring,mysql,docker"/>
-  </a>
-</p>
 
 
 ##
