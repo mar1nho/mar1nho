@@ -21,8 +21,6 @@ Interests: Data Science, Backend Development, Software Development.
 
 
 
-##
-
 <div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar1nho&layout=compact&exclude_langs=html,css&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&border_color=c60000&show_icons=true&icon_color=F2F2F2&rank_icon=github)
