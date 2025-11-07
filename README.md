@@ -12,7 +12,7 @@
 
 [Know Me More](https://www.marinhodev.tech/)
 
-Stack: Python, Java, PowerBI, and Data Analysis tools.
+Main Stacks: Python, Java and Data Analysis & Software Development tools.
 
 With 6 years of experience in administrative/financial processes (billing), I bring a strategic and results-driven mindset to data analysis and solution development.
 
