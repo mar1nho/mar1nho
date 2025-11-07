@@ -10,7 +10,8 @@
 
 💻 Computer Science Student (2/8 - USJT).
 
-[Know Me More](https://www.marinhodev.tech/)
+[See my Portfolio](https://www.marinhodev.tech/)
+[Conect to me on Linkedin](https://www.linkedin.com/in/m4rinhodev/)
 
 Main Stacks: Python, Java and Data Analysis & Software Development tools.
 
