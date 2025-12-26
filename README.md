@@ -57,8 +57,8 @@ Em construção! Desenvolvendo projetos práticos para consolidar meu aprendizad
   <a href="https://www.linkedin.com/in/m4rinhodev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.marinhodev.tech/">
-    <img src="https://img.shields.io/badge/Portfolio-9109F7? style=for-the-badge&logo=firefox&logoColor=white" />
+ <a href="https://www.marinhodev.tech/">
+    <img src="https://img.shields.io/badge/Portfolio-9109F7?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:gustavomarinhosom@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
