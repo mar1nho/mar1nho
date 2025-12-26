@@ -39,7 +39,6 @@ Apaixonado por resolver problemas com código e transformar processos manuais em
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/XML-9109F7?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Protheus-005592? style=for-the-badge" />
     </td>
   </tr>
 </table>
