@@ -28,7 +28,7 @@ Passionate about solving problems through code and transforming manual workflows
 ## Technologies & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=n8n,java,csharp,python,javascript,mysql,postgresql,github,angularjs,stackoverflow,git,postman,docker,archlinux,linux,ubuntu,zshell,bash,googlesheets,xml" alt="My Skills" />
+  <img src="https://skills.syvixor.com/api/icons?perline=10&i=n8n,java,csharp,python,javascript,mysql,postgresql,github,angularjs,stackoverflow,git,postman,docker,archlinux,linux,ubuntu,zshell,bash,googlesheets,xml" alt="My Skills" />
 </a>
 
 <br>
