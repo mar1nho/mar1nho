@@ -8,8 +8,7 @@
   </div>
   <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Seeking_Internship-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Science-USJT_(2%2F8)-9109F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Science-USJT_(3%2F8)-9109F7?style=for-the-badge" />
 </div>
 
 <br>
@@ -29,7 +28,7 @@ Passionate about solving problems through code and transforming manual workflows
 ## Technologies & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,py,c,mysql,postgresql,git,github,vscode,angular,docker,linux,arch,bash,pycharm,stackoverflow&theme=dark" alt="My Skills" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=n8n,java,csharp,python,javascript,mysql,postgresql,github,angularjs,stackoverflow,git,postman,docker,archlinux,linux,ubuntu,zshell,bash,googlesheets,xml" alt="My Skills" />
 </a>
 
 <br>
