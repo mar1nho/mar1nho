@@ -17,7 +17,8 @@
 
 ## About Me
 
-I'm a **Computer Science** student at USJT (3rd semester). Currently working in billing, I handle daily **automations in Java and Python**, **XML file** manipulation, and **data analysis**.
+I'm a **Computer Science** student at USJT (3rd semester). 
+Currently Intert at Dattos.
 
 I have **6 years of experience** in the administrative/financial sector, with a solid background in organization, process analysis, and attention to detail.
 
