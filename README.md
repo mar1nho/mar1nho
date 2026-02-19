@@ -18,7 +18,10 @@
 ## About Me
 
 I'm a **Computer Science** student at USJT (3rd semester). 
-Currently Intert at Dattos.
+
+<br>
+
+Currently Intern at Dattos.
 
 I have **6 years of experience** in the administrative/financial sector, with a solid background in organization, process analysis, and attention to detail.
 
